@@ -110,4 +110,4 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 Contributions are welcome! If you encounter any issues or have ideas for improvements, feel free to open an issue or submit a pull request.
 
 ## Contact
-For any queries, contact [Your Name] at [your.email@example.com].
+For any queries, contact [PawanPC005v] at [Pawanchander1@gmail.com].
